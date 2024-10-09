@@ -40,6 +40,8 @@ The meetings are independent of any organization. However, Danny Ryan & Tim Beik
 
 | №   | Date                                 | Agenda                                              | Notes                                                                                                                                                                    | Recording                                                                          |
 | --- | ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| 196 | Sep 12, 2024, 14:00-15:30 UTC       | [agenda](https://github.com/ethereum/pm/issues/1143) | [notes](AllCoreDevs-EL-Meetings/Meeting 196.md)\| [Twitter](https://x.com/TimBeiko/status/1834268802348917208)      |[Video](https://youtu.be/A_DuQRICW70) |
+| 195 | Aug 29, 2024, 14:00-15:30 UTC       | [agenda](https://github.com/ethereum/pm/issues/1142) | [notes](AllCoreDevs-EL-Meetings/Meeting 195.md)\| [Twitter](https://x.com/TimBeiko/status/1829192432745062768)      |[Video](https://youtube.com/live/HJ9WxAOwTTA) |
 | 194 | Aug 15, 2024, 14:00-15:30 UTC       | [agenda](https://github.com/ethereum/pm/issues/1124) | [notes](AllCoreDevs-EL-Meetings/Meeting 194.md)\| [Twitter]()      |[Video](https://youtu.be/tbxgYq8KmmM) |
 | 193 | Aug 1, 2024, 14:00-15:30 UTC       | [agenda](https://github.com/ethereum/pm/issues/1104) | [notes](AllCoreDevs-EL-Meetings/Meeting 193.md)\| [Twitter](https://x.com/TimBeiko/status/1813997958939267104)      |[Video](https://www.youtube.com/watch?v=vbh9C2_-TIc) |
 | 192 | July 18, 2024, 14:00-15:30 UTC       | [agenda](https://github.com/ethereum/pm/issues/1098) | [notes](AllCoreDevs-EL-Meetings/Meeting 192.md)\| [Twitter](https://x.com/TimBeiko/status/1813997958939267104)      |[Video](https://youtube.com/live/kL58hvM0E68) |
@@ -243,6 +245,7 @@ The audio files of the Previous Meetings are stored permanently on [Permacast](.
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
+141|  Thursday 2024/9/5 at 14:00 UTC |[agenda](https://github.com/ethereum/pm/issues/1140) \| [notes](AllCoreDevs-CL-Meetings/Call_141.md) \| no reddit | [video](https://youtu.be/XMPupRyEBk0)|
 140|  Thursday 2024/8/22 at 14:00 UTC |[agenda](https://github.com/ethereum/pm/issues/1129) \| [notes](AllCoreDevs-CL-Meetings/Call_140.md) \| no reddit | [video](https://youtu.be/hSNJ6vURfmE)|
 139|  Thursday 2024/8/8 at 14:00 UTC |[agenda](https://github.com/ethereum/pm/issues/1116) \| [notes](AllCoreDevs-CL-Meetings/Call_139.md) \| no reddit | [video](https://youtu.be/o8p47gIt7Bs)|
 138|  Thursday 2024/7/25 at 14:00 UTC |[agenda](https://github.com/ethereum/pm/issues/1100) \| [notes](AllCoreDevs-CL-Meetings/Call_138.md) \| no reddit | [video](https://youtu.be/lmzAUqsIbIE)|
