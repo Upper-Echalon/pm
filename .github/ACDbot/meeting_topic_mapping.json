@@ -346,15 +346,15 @@
     "telegram_message_id": 79
   },
   "89737546468": {
-    "discourse_topic_id": "23350",
-    "issue_title": "Rollcall #12",
-    "start_time": "2025-04-09T14:00:00Z",
+    "discourse_topic_id": 23494,
+    "issue_title": "# RollCall #12 May 14, 2025",
+    "start_time": "2025-05-14T14:00:00Z",
     "duration": 60,
-    "issue_number": 1431,
+    "issue_number": 1459,
     "meeting_id": "89737546468",
     "zoom_link": "https://ethereumfoundation.zoom.us/j/89737546468?pwd=xksuE0k0uLbwqMoh2hzlAr5tneVvVf.1",
     "is_recurring": true,
-    "occurrence_rate": "monthly",
+    "occurrence_rate": "weekly",
     "call_series": "rollcall",
     "Youtube_upload_processed": true,
     "transcript_processed": false,
@@ -391,7 +391,9 @@
         "scheduled_time": "2025-07-09T14:00:00.000Z"
       }
     ],
-    "telegram_message_id": 80
+    "calendar_event_id": null,
+    "telegram_message_id": 80,
+    "youtube_streams_posted_to_discourse": false
   },
   "86344222862": {
     "discourse_topic_id": 23392,
